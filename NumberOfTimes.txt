@@ -1,0 +1,5 @@
+In urma verificarii a rezultat: 
+BaseProduct{title='Savory Streusel ', rating=1.25, calories=105, protein=5, fat=7, sodium=130, price=81}  1
+BaseProduct{title='Savory Streusel ', rating=1.25, calories=105, protein=5, fat=7, sodium=130, price=81}  1
+BaseProduct{title='Savory Streusel ', rating=1.25, calories=105, protein=5, fat=7, sodium=130, price=81}  1
+BaseProduct{title='Savory Streusel ', rating=1.25, calories=105, protein=5, fat=7, sodium=130, price=81}  1

@@ -1,0 +1,2 @@
+Conform datelor introduse au rezultat urmatoarele comenzi:
+ID_Comanda: 1 Data comenzii: Tue Dec 22 10:25:01 EET 2009Cantitatea : 2Total de plata:90ID_Comanda: 2 Data comenzii: Wed Jan 23 11:20:10 EET 2013Cantitatea : 2Total de plata:67
